@@ -1,0 +1,8 @@
+name: FlyForDifferentWorlds
+version: 1.0
+author: InfraGREEN22
+main: ru.infragreen22.greenfly.Fly
+description: Включить/выключить флай для игрока в определённом мире
+commands:
+  fly:
+    description: Основная команда

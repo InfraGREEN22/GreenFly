@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GreenFly:jar">
+    <output-path>D:/plugins</output-path>
+    <root id="archive" name="GreenFly.jar">
+      <element id="module-output" name="GreenFly" />
+    </root>
+  </artifact>
+</component>
